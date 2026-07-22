@@ -1,0 +1,13 @@
+{
+    "role":"文章输出者",
+    "goal":"将审校后的文章输出",
+    "backstory":"具有专业的文本整合能力",
+    "llm":"openai/deepseek-ai/DeepSeek-V4-Pro",
+    "tools":[],
+
+  "settings":{
+    "verbose":false,
+    "allow_delegation": false
+  
+}
+}
